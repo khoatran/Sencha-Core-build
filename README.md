@@ -1,12 +1,12 @@
 Sencha-Core-build
 =================
 
-A jsb3 file to help you rebuild the SenchaTouch package to get core features (without UI features) to make it works with other HTML5 frameworks.
+A jsb3 file to help you rebuild the SenchaTouch package to get core features (without UI features) and make it works with other Mobile HTML5 frameworks.
 
 The target of this build process is "creating a custom version of SenchaTouch - which I called Sencha Core" that support below features:
 
 1) touch-core-prod.js
-+ Sencha Class system and the dynamically class loadding.
++ Sencha Class system and the dynamic class loading mechanism.
 + Dom querying/accessing
 
 2) touch-extra-prod.js
